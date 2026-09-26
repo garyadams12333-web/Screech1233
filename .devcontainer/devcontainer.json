@@ -1,0 +1,11 @@
+{
+  "name": "Swift Development",
+  "image": "mcr.microsoft.com/devcontainers/swift:latest",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "swiftlang.swift-vscode"
+      ]
+    }
+  }
+}
